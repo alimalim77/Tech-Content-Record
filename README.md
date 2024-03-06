@@ -20,9 +20,9 @@
    - Description: Learn about the theory, concept and implementation of Heap Data Structure.
    - Link: [https://www.prepbytes.com/blog/heap/what-is-heap-in-data-structure/](https://www.prepbytes.com/blog/heap/what-is-heap-in-data-structure/) 
 
-5. **Triplet Sum in Array**
-   - Description: Examine one of the most significant problems asked in coding-based interviews and focused on programming ideas.
-   - Link: [https://www.prepbytes.com/blog/arrays/triplet-sum-in-array/](https://www.prepbytes.com/blog/arrays/triplet-sum-in-array/)
+5. **Difference Between Max Heap and Min Heap**
+   - Description: Distinguished how the two type of heaps are different or in a way, similar to each other.
+   - Link: [https://www.prepbytes.com/blog/heap/difference-between-max-heap-and-min-heap/](https://www.prepbytes.com/blog/heap/difference-between-max-heap-and-min-heap/)
 
 
 ### Videos

@@ -5,40 +5,40 @@
 ### Articles
 
 1. **Graph in Data Structure: Definition, Types and Application**
-   - *Description:* Explore the fundamentals of graphs in data structures, including their definition, various types, and practical applications.
-   - *Link:* [Graph in Data Structure](https://www.prepbytes.com/blog/graphs/graph-in-data-structure/)
+- *Description:* Explore the fundamentals of graphs in data structures, including their definition, various types, and practical applications.
+- *Link:* [Graph in Data Structure](https://www.prepbytes.com/blog/graphs/graph-in-data-structure/)
 
 2. **Stack Operations in Data Structure**
-   - *Description:* Understanding the operations of a stack in data structures used in different aspects of computer science and software development.
-   - *Link:* [Stack Operations in Data Structure](https://www.prepbytes.com/blog/stacks/stack-operations-in-data-structure/)
+- *Description:* Understanding the operations of a stack in data structures used in different aspects of computer science and software development.
+- *Link:* [Stack Operations in Data Structure](https://www.prepbytes.com/blog/stacks/stack-operations-in-data-structure/)
 
 3. **Triplet Sum in Array**
-   - *Description:* Examine one of the most significant problems asked in coding-based interviews and focused on programming ideas.
-   - *Link:* [Triplet Sum in Array](https://www.prepbytes.com/blog/arrays/triplet-sum-in-array/)
+- *Description:* Examine one of the most significant problems asked in coding-based interviews and focused on programming ideas.
+- *Link:* [Triplet Sum in Array](https://www.prepbytes.com/blog/arrays/triplet-sum-in-array/)
 
 4. **What is Heap in Data Structure?**
-   - *Description:* Learn about the theory, concept and implementation of Heap Data Structure.
-   - *Link:* [What is Heap in Data Structure?](https://www.prepbytes.com/blog/heap/what-is-heap-in-data-structure/)
+- *Description:* Learn about the theory, concept and implementation of Heap Data Structure.
+- *Link:* [What is Heap in Data Structure?](https://www.prepbytes.com/blog/heap/what-is-heap-in-data-structure/)
 
 5. **Difference Between Max Heap and Min Heap**
-   - *Description:* Distinguished how the two types of heaps are different or in a way, similar to each other.
-   - *Link:* [Difference Between Max Heap and Min Heap](https://www.prepbytes.com/blog/heap/difference-between-max-heap-and-min-heap/)
+- *Description:* Distinguished how the two types of heaps are different or in a way, similar to each other.
+- *Link:* [Difference Between Max Heap and Min Heap](https://www.prepbytes.com/blog/heap/difference-between-max-heap-and-min-heap/)
 
 6. **Difference between ArrayList and LinkedList**
-   - *Description:* This article delves into their characteristics, usage scenarios, and the trade-offs associated with these dynamic element collections.
-   - *Link:* [Difference between ArrayList and LinkedList](https://www.prepbytes.com/blog/linked-list/difference-between-arraylist-and-linkedlist/)
+- *Description:* This article delves into their characteristics, usage scenarios, and the trade-offs associated with these dynamic element collections.
+- *Link:* [Difference between ArrayList and LinkedList](https://www.prepbytes.com/blog/linked-list/difference-between-arraylist-and-linkedlist/)
 
 7. **Calculator Program in Python**
-   - *Description:* The article provides a step-by-step guide, including a dry run of the algorithm, enhancing your Python programming skills.
-   - *Link:* [Calculator Program in Python](https://www.prepbytes.com/blog/python/calculator-program-in-python/)
+- *Description:* The article provides a step-by-step guide, including a dry run of the algorithm, enhancing your Python programming skills.
+- *Link:* [Calculator Program in Python](https://www.prepbytes.com/blog/python/calculator-program-in-python/)
 
 8. **Fizzbuzz Program in Java**
-   - *Description:* Welcome to the world of Fizzbuzz! A fundamental exercise in Java programming. Gain insights into solving this well-known problem.
-   - *Link:* [Fizzbuzz Program in Java](https://www.prepbytes.com/blog/java/fizzbuzz-program-in-java/)
+- *Description:* Welcome to the world of Fizzbuzz! A fundamental exercise in Java programming. Gain insights into solving this well-known problem.
+- *Link:* [Fizzbuzz Program in Java](https://www.prepbytes.com/blog/java/fizzbuzz-program-in-java/)
 
 9. **An Introduction to Data Structures and Algorithms**
-   - *Description:* Gain a comprehensive understanding of data structures and algorithms and their real-world applications.
-   - *Link:* [An Introduction to Data Structures and Algorithms](https://www.prepbytes.com/blog/data-structure/an-introduction-data-structures-and-algorithms/)
+- *Description:* Gain a comprehensive understanding of data structures and algorithms and their real-world applications.
+- *Link:* [An Introduction to Data Structures and Algorithms](https://www.prepbytes.com/blog/data-structure/an-introduction-data-structures-and-algorithms/)
 
 10. **Main Types of Data Structure**
    - *Description:* Discusses the working principles and real-world applications of these foundational structures, providing a valuable resource for aspiring programmers.
@@ -75,7 +75,6 @@
 18. **Fizzbuzz Program in Python**
    - *Description:* Welcome to the world of Fizzbuzz! A fundamental exercise in Python programming. Gain insights into solving this well-known problem.
    - *Link:* [Fizzbuzz Program in Python](https://www.prepbytes.com/blog/python/fizzbuzz-program-in-python/)
-
 
 ### Videos
 

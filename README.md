@@ -6,7 +6,7 @@
 
 1. **Graph in Data Structure: Definition, Types and Application**
    - Description: Explore the fundamentals of graphs in data structures, including their definition, various types, and practical applications. Gain insights into how graphs play a crucial role in modeling relationships and solving complex problems in diverse fields.
-   - Link: [](https://www.prepbytes.com/blog/graphs/graph-in-data-structure/)
+   - Link: [https://www.prepbytes.com/blog/graphs/graph-in-data-structure/](https://www.prepbytes.com/blog/graphs/graph-in-data-structure/)
 
 2. **Title of Article 2**
    - Description: Brief description of the article.

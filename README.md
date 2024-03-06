@@ -24,6 +24,57 @@
    - Description: Distinguished how the two type of heaps are different or in a way, similar to each other.
    - Link: [https://www.prepbytes.com/blog/heap/difference-between-max-heap-and-min-heap/](https://www.prepbytes.com/blog/heap/difference-between-max-heap-and-min-heap/)
 
+6. **Difference between ArrayList and LinkedList**
+   - Description: This article delves into their characteristics, usage scenarios, and the trade-offs associated with these dynamic element collections.
+   - Link: [https://www.prepbytes.com/blog/linked-list/difference-between-arraylist-and-linkedlist/](https://www.prepbytes.com/blog/linked-list/difference-between-arraylist-and-linkedlist/)
+
+7. **Calculator Program in Python**
+   - Description: The article provides a step-by-step guide, including a dry run of the algorithm, enhancing your Python programming skills.
+   - Link: [https://www.prepbytes.com/blog/python/calculator-program-in-python/](https://www.prepbytes.com/blog/python/calculator-program-in-python/)
+
+8. **Fizzbuzz Program in Java**
+   - Description: Welcome to the world of Fizzbuzz! A fundamental exercise in Java programming. Gain insights into solving this well-known problem.
+   - Link: [https://www.prepbytes.com/blog/java/fizzbuzz-program-in-java/](https://www.prepbytes.com/blog/java/fizzbuzz-program-in-java/)
+
+9. **An Introduction to Data Structures and Algorithms**
+   - Description: Gain a comprehensive understanding of data structures and algorithms and their real-world applications.
+   - Link: [https://www.prepbytes.com/blog/data-structure/an-introduction-data-structures-and-algorithms/](https://www.prepbytes.com/blog/data-structure/an-introduction-data-structures-and-algorithms/)  
+
+10. **Main Types of Data Structure**
+   - Description: Discusses the working principles and real-world applications of these foundational structures, providing a valuable resource for aspiring programmers.
+   - Link: [https://www.prepbytes.com/blog/data-structure/main-types-of-data-structure/](https://www.prepbytes.com/blog/data-structure/main-types-of-data-structure/) 
+
+11. **Calculator Program in Java**
+   - Description: This article explores two methods, If-Else and Switch-Case, offering a practical guide for implementing a fundamental program in Java.
+   - Link: [https://www.prepbytes.com/blog/java/calculator-program-in-java/](https://www.prepbytes.com/blog/java/calculator-program-in-java/)
+
+12. **Caesar Cipher Program in Java**
+   - Description:  Build your own Caesar Cipher program as this article guides you through the process, making cryptography accessible and engaging for Java developers.
+   - Link: [https://www.prepbytes.com/blog/java/caesar-cipher-program-in-java/](https://www.prepbytes.com/blog/java/caesar-cipher-program-in-java/)
+
+13. **C Program for Matrix Addition**
+   - Description: provides insights into the implementation of matrix addition, a fundamental concept in computer science.
+   - Link: [https://www.prepbytes.com/blog/c-programming/c-program-for-matrix-addition/](https://www.prepbytes.com/blog/c-programming/c-program-for-matrix-addition/)
+
+14. **Insertion Sort Program in C**
+   - Description:  This tutorial provides a step-by-step guide to one of the frequently requested sorting algorithms, enhancing your C programming skills.
+   - Link: [https://www.prepbytes.com/blog/c-programming/insertion-sort-program-in-c/](https://www.prepbytes.com/blog/c-programming/insertion-sort-program-in-c/)
+
+15. **FCFS Scheduling Program in C**
+   - Description: Understand how this scheduling algorithm works and explore its practical implementation in this informative article.
+   - Link: [https://www.prepbytes.com/blog/c-programming/fcfs-scheduling-program-in-c/](https://www.prepbytes.com/blog/c-programming/fcfs-scheduling-program-in-c/)
+
+16. **Doubly Linked List Program in C**
+   - Description: Provides a thorough implementation of a doubly linked list program, enhancing your understanding of linked data structures.
+   - Link: [https://www.prepbytes.com/blog/c-programming/doubly-linked-list-program-in-c/](https://www.prepbytes.com/blog/c-programming/doubly-linked-list-program-in-c/)
+
+17. **Priority Scheduling Program in C**
+   - Description: Delve into the world of priority scheduling programs in the C programming language.
+   - Link: [https://www.prepbytes.com/blog/c-programming/priority-scheduling-program-in-c/](https://www.prepbytes.com/blog/c-programming/priority-scheduling-program-in-c/)
+
+18. **Fizzbuzz Program in Python**
+   - Description: Welcome to the world of Fizzbuzz! A fundamental exercise in Python programming. Gain insights into solving this well-known problem.
+   - Link: [https://www.prepbytes.com/blog/python/fizzbuzz-program-in-python/](https://www.prepbytes.com/blog/python/fizzbuzz-program-in-python/)
 
 ### Videos
 

@@ -5,7 +5,7 @@
 ### Articles
 
 1. **Graph in Data Structure: Definition, Types and Application**
-   - Description: Explore the fundamentals of graphs in data structures, including their definition, various types, and practical applications. Gain insights into how graphs play a crucial role in modeling relationships and solving complex problems in diverse fields.
+   - Description: Explore the fundamentals of graphs in data structures, including their definition, various types, and practical applications.
    - Link: [https://www.prepbytes.com/blog/graphs/graph-in-data-structure/](https://www.prepbytes.com/blog/graphs/graph-in-data-structure/)
 
 2. **Stack Operations in Data Structure**
@@ -15,6 +15,15 @@
 3. **Triplet Sum in Array**
    - Description: Examine one of the most significant problems asked in coding-based interviews and focused on programming ideas.
    - Link: [https://www.prepbytes.com/blog/arrays/triplet-sum-in-array/](https://www.prepbytes.com/blog/arrays/triplet-sum-in-array/)
+
+4. **What is Heap in Data Structure?**
+   - Description: Learn about the theory, concept and implementation of Heap Data Structure.
+   - Link: [https://www.prepbytes.com/blog/heap/what-is-heap-in-data-structure/](https://www.prepbytes.com/blog/heap/what-is-heap-in-data-structure/) 
+
+5. **Triplet Sum in Array**
+   - Description: Examine one of the most significant problems asked in coding-based interviews and focused on programming ideas.
+   - Link: [https://www.prepbytes.com/blog/arrays/triplet-sum-in-array/](https://www.prepbytes.com/blog/arrays/triplet-sum-in-array/)
+
 
 ### Videos
 

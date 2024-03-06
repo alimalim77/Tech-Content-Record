@@ -8,9 +8,13 @@
    - Description: Explore the fundamentals of graphs in data structures, including their definition, various types, and practical applications. Gain insights into how graphs play a crucial role in modeling relationships and solving complex problems in diverse fields.
    - Link: [https://www.prepbytes.com/blog/graphs/graph-in-data-structure/](https://www.prepbytes.com/blog/graphs/graph-in-data-structure/)
 
-2. **Title of Article 2**
-   - Description: Brief description of the article.
-   - Link: [Article 2](link_to_article_2_company_a)
+2. **Stack Operations in Data Structure**
+   - Description: Understanding the operations of a stack in data structures used in different aspects of computer science and software development.
+   - Link: [https://www.prepbytes.com/blog/stacks/stack-operations-in-data-structure/](https://www.prepbytes.com/blog/stacks/stack-operations-in-data-structure/)
+
+3. **Triplet Sum in Array**
+   - Description: Examine one of the most significant problems asked in coding-based interviews and focused on programming ideas.
+   - Link: [https://www.prepbytes.com/blog/arrays/triplet-sum-in-array/](https://www.prepbytes.com/blog/arrays/triplet-sum-in-array/)
 
 ### Videos
 

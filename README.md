@@ -41,50 +41,61 @@
 - *Link:* [An Introduction to Data Structures and Algorithms](https://www.prepbytes.com/blog/data-structure/an-introduction-data-structures-and-algorithms/)
 
 10. **Main Types of Data Structure**
-   - *Description:* Discusses the working principles and real-world applications of these foundational structures, providing a valuable resource for aspiring programmers.
-   - *Link:* [Main Types of Data Structure](https://www.prepbytes.com/blog/data-structure/main-types-of-data-structure/)
+- *Description:* Discusses the working principles and real-world applications of these foundational structures, providing a valuable resource for aspiring programmers.
+- *Link:* [Main Types of Data Structure](https://www.prepbytes.com/blog/data-structure/main-types-of-data-structure/)
 
 11. **Calculator Program in Java**
-   - *Description:* This article explores two methods, If-Else and Switch-Case, offering a practical guide for implementing a fundamental program in Java.
-   - *Link:* [Calculator Program in Java](https://www.prepbytes.com/blog/java/calculator-program-in-java/)
+- *Description:* This article explores two methods, If-Else and Switch-Case, offering a practical guide for implementing a fundamental program in Java.
+- *Link:* [Calculator Program in Java](https://www.prepbytes.com/blog/java/calculator-program-in-java/)
 
 12. **Caesar Cipher Program in Java**
-   - *Description:* Build your own Caesar Cipher program as this article guides you through the process, making cryptography accessible and engaging for Java developers.
-   - *Link:* [Caesar Cipher Program in Java](https://www.prepbytes.com/blog/java/caesar-cipher-program-in-java/)
+- *Description:* Build your own Caesar Cipher program as this article guides you through the process, making cryptography accessible and engaging for Java developers.
+- *Link:* [Caesar Cipher Program in Java](https://www.prepbytes.com/blog/java/caesar-cipher-program-in-java/)
 
 13. **C Program for Matrix Addition**
-   - *Description:* Provides insights into the implementation of matrix addition, a fundamental concept in computer science.
-   - *Link:* [C Program for Matrix Addition](https://www.prepbytes.com/blog/c-programming/c-program-for-matrix-addition/)
+- *Description:* Provides insights into the implementation of matrix addition, a fundamental concept in computer science.
+- *Link:* [C Program for Matrix Addition](https://www.prepbytes.com/blog/c-programming/c-program-for-matrix-addition/)
 
 14. **Insertion Sort Program in C**
-   - *Description:* This tutorial provides a step-by-step guide to one of the frequently requested sorting algorithms, enhancing your C programming skills.
-   - *Link:* [Insertion Sort Program in C](https://www.prepbytes.com/blog/c-programming/insertion-sort-program-in-c/)
+- *Description:* This tutorial provides a step-by-step guide to one of the frequently requested sorting algorithms, enhancing your C programming skills.
+- *Link:* [Insertion Sort Program in C](https://www.prepbytes.com/blog/c-programming/insertion-sort-program-in-c/)
 
 15. **FCFS Scheduling Program in C**
-   - *Description:* Understand how this scheduling algorithm works and explore its practical implementation in this informative article.
-   - *Link:* [FCFS Scheduling Program in C](https://www.prepbytes.com/blog/c-programming/fcfs-scheduling-program-in-c/)
+- *Description:* Understand how this scheduling algorithm works and explore its practical implementation in this informative article.
+- *Link:* [FCFS Scheduling Program in C](https://www.prepbytes.com/blog/c-programming/fcfs-scheduling-program-in-c/)
 
 16. **Doubly Linked List Program in C**
-   - *Description:* Provides a thorough implementation of a doubly linked list program, enhancing your understanding of linked data structures.
-   - *Link:* [Doubly Linked List Program in C](https://www.prepbytes.com/blog/c-programming/doubly-linked-list-program-in-c/)
+- *Description:* Provides a thorough implementation of a doubly linked list program, enhancing your understanding of linked data structures.
+- *Link:* [Doubly Linked List Program in C](https://www.prepbytes.com/blog/c-programming/doubly-linked-list-program-in-c/)
 
 17. **Priority Scheduling Program in C**
-   - *Description:* Delve into the world of priority scheduling programs in the C programming language.
-   - *Link:* [Priority Scheduling Program in C](https://www.prepbytes.com/blog/c-programming/priority-scheduling-program-in-c/)
+- *Description:* Delve into the world of priority scheduling programs in the C programming language.
+- *Link:* [Priority Scheduling Program in C](https://www.prepbytes.com/blog/c-programming/priority-scheduling-program-in-c/)
 
 18. **Fizzbuzz Program in Python**
-   - *Description:* Welcome to the world of Fizzbuzz! A fundamental exercise in Python programming. Gain insights into solving this well-known problem.
-   - *Link:* [Fizzbuzz Program in Python](https://www.prepbytes.com/blog/python/fizzbuzz-program-in-python/)
+- *Description:* Welcome to the world of Fizzbuzz! A fundamental exercise in Python programming. Gain insights into solving this well-known problem.
+- *Link:* [Fizzbuzz Program in Python](https://www.prepbytes.com/blog/python/fizzbuzz-program-in-python/)
 
-### Videos
+19. **Thread Program in JAVA**
+- *Description:* Explores threads in Java, highlighting their advantages and providing insights into implementing thread programs.
+- *Link:* [Thread Program in JAVA](https://www.prepbytes.com/blog/java/thread-program-in-java/)
 
-1. **Title of Video 1**
-   - Description: Brief description of the video.
-   - Link: [Video 1](link_to_video_1_company_a)
+20. **Interview Questions: How to answer 'tell me about yourself for experienced**
+- *Description:* Offers guidance on tackling the common interview question, tailored for experienced professionals, providing strategies to introduce oneself effectively
+- *Link:* [Interview Questions: How to answer 'tell me about yourself for experienced](https://www.prepbytes.com/blog/interview-questions/how-to-answer-tell-me-about-yourself-for-experienced/) 
 
-2. **Title of Video 2**
-   - Description: Brief description of the video.
-   - Link: [Video 2](link_to_video_2_company_a)
+21. **What is view and types of view in DBMS?**
+- *Description:* Discusses the purpose and functionality of views in Database Management Systems (DBMS), along with methods to obtain different types of data views.
+- *Link:* [What is view and types of view in DBMS?](https://www.prepbytes.com/blog/dbms/what-is-view-and-types-of-view-in-dbms/)
+
+22. **How to Implement Selection Sort in C?**
+- *Description:* Guides readers through implementing selection sort in C, emphasizing its significance in sorting algorithms.
+- *Link:* [How to Implement Selection Sort in C?](https://www.prepbytes.com/blog/c-programming/selection-sort-implementation-program-in-c/)
+
+23.  **Inheritance in Java**
+- *Description:* Explores the concept of inheritance in Java, highlighting its role in building robust and organized object-oriented codebases.
+- *Link:* [Inheritance in Java](https://www.prepbytes.com/blog/java/inheritance-in-java/)
+
 
 ## Company B
 
